@@ -73,8 +73,9 @@ const App = () => {
         <NotesList
           notes={notes.filter((note) => note.text.toLowerCase().includes(searchText)
           )}
-          handleAddNote={addNote}
-          handleDeleteNote={deleteNote}
+          handleEditNote ={() => {}}
+        handleAddNote={addNote}
+        handleDeleteNote={deleteNote}
         />
       </div>
     </div>
