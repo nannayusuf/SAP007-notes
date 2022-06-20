@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.6cee7745.css",
-    "main.js": "/react-gh-pages/static/js/main.85790413.js",
-    "static/js/787.74861886.chunk.js": "/react-gh-pages/static/js/787.74861886.chunk.js",
-    "index.html": "/react-gh-pages/index.html",
-    "main.6cee7745.css.map": "/react-gh-pages/static/css/main.6cee7745.css.map",
-    "main.85790413.js.map": "/react-gh-pages/static/js/main.85790413.js.map",
-    "787.74861886.chunk.js.map": "/react-gh-pages/static/js/787.74861886.chunk.js.map"
+    "main.css": "/SAP007-notes/static/css/main.6cee7745.css",
+    "main.js": "/SAP007-notes/static/js/main.cb4a988e.js",
+    "static/js/787.74861886.chunk.js": "/SAP007-notes/static/js/787.74861886.chunk.js",
+    "index.html": "/SAP007-notes/index.html",
+    "main.6cee7745.css.map": "/SAP007-notes/static/css/main.6cee7745.css.map",
+    "main.cb4a988e.js.map": "/SAP007-notes/static/js/main.cb4a988e.js.map",
+    "787.74861886.chunk.js.map": "/SAP007-notes/static/js/787.74861886.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6cee7745.css",
-    "static/js/main.85790413.js"
+    "static/js/main.cb4a988e.js"
   ]
 }
